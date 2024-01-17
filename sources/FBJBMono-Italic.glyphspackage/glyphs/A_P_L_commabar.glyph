@@ -1,0 +1,63 @@
+{
+glyphname = APLcommabar;
+layers = (
+{
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,505,l),
+(503,550,l),
+(183,550,l),
+(176,505,l)
+);
+},
+{
+pos = (30,200);
+ref = comma;
+}
+);
+width = 600;
+},
+{
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(491,475,l),
+(503,550,l),
+(183,550,l),
+(171,475,l)
+);
+},
+{
+pos = (30,200);
+ref = comma;
+}
+);
+width = 600;
+},
+{
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(481,410,l),
+(503,550,l),
+(183,550,l),
+(161,410,l)
+);
+},
+{
+pos = (30,200);
+ref = comma;
+}
+);
+width = 600;
+}
+);
+unicode = 9066;
+}

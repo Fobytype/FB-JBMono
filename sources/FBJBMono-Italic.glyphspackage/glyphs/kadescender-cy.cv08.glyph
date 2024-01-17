@@ -1,0 +1,59 @@
+{
+glyphname = "kadescender-cy.cv08";
+layers = (
+{
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(476,-140,l),
+(505,45,l),
+(455,45,l),
+(426,-140,l)
+);
+},
+{
+ref = "ka-cy.cv08";
+}
+);
+width = 600;
+},
+{
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,-140,l),
+(539,80,l),
+(459,80,l),
+(424,-140,l)
+);
+},
+{
+ref = "ka-cy.cv08";
+}
+);
+width = 600;
+},
+{
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(524,-140,l),
+(568,140,l),
+(438,140,l),
+(394,-140,l)
+);
+},
+{
+ref = "ka-cy.cv08";
+}
+);
+width = 600;
+}
+);
+}

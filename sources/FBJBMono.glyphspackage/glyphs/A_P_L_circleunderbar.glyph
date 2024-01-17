@@ -1,0 +1,60 @@
+{
+glyphname = APLcircleunderbar;
+layers = (
+{
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(580,-135,l),
+(580,-90,l),
+(20,-90,l),
+(20,-135,l)
+);
+},
+{
+ref = whiteCircle;
+}
+);
+width = 600;
+},
+{
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(580,-165,l),
+(580,-90,l),
+(20,-90,l),
+(20,-165,l)
+);
+},
+{
+ref = whiteCircle;
+}
+);
+width = 600;
+},
+{
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(580,-230,l),
+(580,-90,l),
+(20,-90,l),
+(20,-230,l)
+);
+},
+{
+ref = whiteCircle;
+}
+);
+width = 600;
+}
+);
+unicode = 9052;
+}

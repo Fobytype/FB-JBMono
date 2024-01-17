@@ -5,3 +5,4 @@ lib
 source/JetBrainsMono.backup
 env
 .DS_Store
+**/*.glyphspackage/UIState.plist

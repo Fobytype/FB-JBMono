@@ -1,0 +1,60 @@
+{
+glyphname = "E-cy";
+layers = (
+{
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,311,l),
+(415,311,l),
+(415,446,l),
+(210,446,l)
+);
+},
+{
+ref = C;
+}
+);
+width = 600;
+},
+{
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,337,l),
+(405,337,l),
+(405,419,l),
+(180,419,l)
+);
+},
+{
+ref = C;
+}
+);
+width = 600;
+},
+{
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,357,l),
+(390,357,l),
+(390,402,l),
+(155,402,l)
+);
+},
+{
+ref = C;
+}
+);
+width = 600;
+}
+);
+unicode = 1028;
+}

@@ -1,0 +1,75 @@
+{
+glyphname = "ge-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (330,550);
+}
+);
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,0,l),
+(265,410,l),
+(535,410,l),
+(535,550,l),
+(115,550,l),
+(115,0,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (330,550);
+}
+);
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,0,l),
+(225,468,l),
+(530,468,l),
+(530,550,l),
+(135,550,l),
+(135,0,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = top;
+pos = (330,550);
+}
+);
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,0,l),
+(195,505,l),
+(520,505,l),
+(520,550,l),
+(145,550,l),
+(145,0,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 1075;
+}

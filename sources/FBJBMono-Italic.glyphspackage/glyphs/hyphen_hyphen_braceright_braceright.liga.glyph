@@ -1,0 +1,74 @@
+{
+glyphname = hyphen_hyphen_braceright_braceright.liga;
+layers = (
+{
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-225,308,l),
+(-218,353,l),
+(-1693,353,l),
+(-1700,308,l)
+);
+},
+{
+pos = (-555,-30);
+ref = braceright;
+},
+{
+pos = (-25,-30);
+ref = braceright;
+}
+);
+width = 600;
+},
+{
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-228,290,l),
+(-215,370,l),
+(-1700,370,l),
+(-1713,290,l)
+);
+},
+{
+pos = (-555,-30);
+ref = braceright;
+},
+{
+pos = (-25,-30);
+ref = braceright;
+}
+);
+width = 600;
+},
+{
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-233,260,l),
+(-211,400,l),
+(-1701,400,l),
+(-1723,260,l)
+);
+},
+{
+pos = (-555,-30);
+ref = braceright;
+},
+{
+pos = (-25,-30);
+ref = braceright;
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,65 @@
+{
+glyphname = bar_bar_greater.liga;
+layers = (
+{
+layerId = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-690,-85,l),
+(-690,750,l),
+(-840,750,l),
+(-840,-85,l)
+);
+},
+{
+alignment = -1;
+pos = (-60,0);
+ref = bar_greater.liga;
+}
+);
+width = 600;
+},
+{
+layerId = "CCC0BD40-BA8C-414E-B576-CF0B94E6C996";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-720,-85,l),
+(-720,750,l),
+(-810,750,l),
+(-810,-85,l)
+);
+},
+{
+alignment = -1;
+pos = (-55,0);
+ref = bar_greater.liga;
+}
+);
+width = 600;
+},
+{
+layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-740,-85,l),
+(-740,750,l),
+(-790,750,l),
+(-790,-85,l)
+);
+},
+{
+alignment = -1;
+pos = (-55,0);
+ref = bar_greater.liga;
+}
+);
+width = 600;
+}
+);
+}
