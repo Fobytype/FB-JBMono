@@ -124,8 +124,8 @@ wght = {
 };
 }
 );
-date = "2023-02-09 14:47:06 +0000";
-familyName = "JetBrains Mono";
+date = "2024-01-17 20:15:35 +0000";
+familyName = "FB JetBrains Mono";
 featurePrefixes = (
 {
 automatic = 1;
@@ -2794,7 +2794,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Philipp Nurullin, Konstantin Bulenkov";
+value = "Philipp Nurullin, Konstantin Bulenkov, improved by Schoen Cho";
 }
 );
 },
@@ -2807,13 +2807,13 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = JetBrains;
+value = "Fobytype Foundry";
 }
 );
 },
 {
 key = manufacturerURL;
-value = "https://www.jetbrains.com";
+value = "https://fobytype.styc.co.uk";
 },
 {
 key = licenses;
@@ -2839,7 +2839,7 @@ value = "JetBrains Mono is a trademark of JetBrains s.r.o.";
 },
 {
 key = vendorID;
-value = JB;
+value = STyC;
 }
 );
 stems = (
@@ -2894,5 +2894,5 @@ tH = 45;
 };
 };
 versionMajor = 2;
-versionMinor = 305;
+versionMinor = 306;
 }
