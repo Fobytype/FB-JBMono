@@ -2076,9 +2076,7 @@ pos = 9;
 name = Thin;
 stemValues = (
 45,
-50,
-0,
-0
+50
 );
 userData = {
 GSCornerRadius = 15;
@@ -2188,9 +2186,7 @@ pos = 9;
 name = Italic;
 stemValues = (
 82,
-90,
-60,
-60
+90
 );
 visible = 1;
 },
@@ -2293,9 +2289,7 @@ pos = 9;
 name = ExtraBold;
 stemValues = (
 140,
-150,
-0,
-120
+150
 );
 userData = {
 de.kutilek.MasterGrid.type = units;
@@ -2683,13 +2677,6 @@ name = hStem0;
 },
 {
 name = vStem0;
-},
-{
-horizontal = 1;
-name = hStem1;
-},
-{
-name = vStem1;
 }
 );
 unitsPerEm = 1000;
