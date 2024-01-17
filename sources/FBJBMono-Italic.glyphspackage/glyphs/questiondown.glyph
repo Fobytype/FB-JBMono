@@ -103,6 +103,19 @@ width = 600;
 layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
 shapes = (
 {
+angle = 180;
+pos = (599,550);
+ref = question;
+}
+);
+width = 600;
+},
+{
+associatedMasterId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+layerId = "8099DB66-665D-42A7-80F2-A721763E49F3";
+name = "17 Jan 24 at 19:32";
+shapes = (
+{
 closed = 1;
 nodes = (
 (382,-180,l),
@@ -146,6 +159,7 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 600;
 }
 );

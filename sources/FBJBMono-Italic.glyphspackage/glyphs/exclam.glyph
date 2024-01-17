@@ -82,6 +82,28 @@ nodes = (
 );
 },
 {
+pos = (64,0);
+ref = period;
+scale = (0.7653,0.7653);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+layerId = "CCE232FC-3EE8-4F83-8ECC-ABCF325E5289";
+name = "17 Jan 24 at 19:19";
+shapes = (
+{
+closed = 1;
+nodes = (
+(309,205,l),
+(402,730,l),
+(342,730,l),
+(267,205,l)
+);
+},
+{
 closed = 1;
 nodes = (
 (261,-5,ls),

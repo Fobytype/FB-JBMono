@@ -73,6 +73,19 @@ width = 600;
 layerId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
 shapes = (
 {
+angle = 180;
+pos = (599,550);
+ref = exclam;
+}
+);
+width = 600;
+},
+{
+associatedMasterId = "EDF5EB54-295C-4C90-9A2F-67CD82979CFF";
+layerId = "19512B59-7844-48D5-84FC-D362F822EFC3";
+name = "17 Jan 24 at 19:31";
+shapes = (
+{
 closed = 1;
 nodes = (
 (257,-180,l),
